@@ -27,11 +27,11 @@ In the image below we see a view of the Comfor default theme.
 
 ## 1. Installation
 
-The first step is to install the Block on the ***Ascoos Cms*** website we have.
+The first step is to install the Block on the **Ascoos Cms** website we have.
 
 Block is installed only through the built-in installer in the admin section.
 
-From the ***Ascoos Cms*** desktop, double-click the `Installation Program` icon you see in the image below.
+From the **Ascoos Cms** desktop, double-click the `Installation Program` icon you see in the image below.
 
 <p align="center"><img src="scr-installer-000.png" /></p>
 
@@ -71,7 +71,7 @@ We will press the `Close` button at the end and we will finish our work with the
 
 # Edit and configure the Block
 
-On the ***Ascoos Cms*** desktop, double-click the `ASCOOS Explorer` icon to open the Ascoos component management program.
+On the **Ascoos Cms** desktop, double-click the `ASCOOS Explorer` icon to open the Ascoos component management program.
 
 <p align="center"><img src="scr-ascoos-explorer-000.png" /></p>
 
@@ -151,12 +151,12 @@ From the editing page of the basic settings, we can adjust to the specific needs
 
 ## 2. Permissions
 
-How access rights work, not only for blocks but also for all components of ***Ascoos Cms*** is described in the video
+How access rights work, not only for blocks but also for all components of **Ascoos Cms** is described in the video
 [Ascoos Cms Blocks - Edit Permissions](https://www.youtube.com/watch?v=nqgJp10iquw) which is on youtube.
 
 
 ## 3. Edit Block's special parameters.
-Each component of ***Ascoos Cms*** also has its own operating parameters. For the specific block are those shown in the following image.
+Each component of **Ascoos Cms** also has its own operating parameters. For the specific block are those shown in the following image.
 
 <p align="center"><img src="scr-block-comfor_latest-admin-0003-params-1280.png" /></p>
 
