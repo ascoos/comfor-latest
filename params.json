@@ -1,0 +1,82 @@
+{
+	"attrs": {
+		"type": "parameters",
+		"client": "block",
+		"version": "1.0.0",
+		"name": "comfor_latest"
+	},
+	"header": {
+		"version": "1.0.0",
+		"license": "APL_license",
+		"author": "APL_author",
+		"creation": "APL_creation",
+		"copyright": "APL_copyright",
+		"email": "webmaster@alexsoft.gr",
+		"url": "www.alexsoft.gr",
+		"translator": "APL_translator",
+		"translatorEmail": "APL_translatorEmail",
+		"translatorUrl": "APL_translatorUrl",
+		"description": "APL_desc"
+	},
+	"params": {
+		"0": {
+			"paramgroup": "APL_paramgroup_general_label",		
+			"0": {
+				"name": "count",
+				"type": "integer",
+				"default": 10,
+				"label": "APL_count_label",
+				"description": "APL_count_desc"
+			},
+			"1": {
+				"type": "separate"
+			},
+			"2": {
+				"name": "all_lang",
+				"type": "boolean",
+				"default": 0,
+				"label": "APL_all_lang_label",
+				"description": "APL_all_lang_desc"
+			},							
+			"3": {
+				"name": "frontpage",
+				"type": "fplist",
+				"placeholder":"APL_frontpage_placeholder",				
+				"default": "fullpage",
+				"label": "APL_frontpage_label",
+				"description": "APL_frontpage_desc"
+			},
+			"4": {
+				"name": "theme",
+				"type": "themelist",
+				"placeholder":"APL_theme_placeholder",
+				"default": "default",
+				"label": "APL_theme_label",
+				"description": "APL_theme_desc"
+			}
+		},
+		"1": {
+			"paramgroup": "APL_paramgroup_boards_label",
+			"0": {
+				"name": "board_ids",
+				"normalize":"extrafield",
+				"type": "multiselect",
+				"list":"ComforBoards",
+				"placeholder":"APL_board_ids_placeholder",
+				"default": 0,
+				"label": "APL_board_ids_label",
+				"description": "APL_board_ids_desc"
+			},
+			"1": {
+				"name": "except_board_ids",
+				"normalize":"extrafield",
+				"type": "multiselect",
+				"list":"ComforExceptBoards",
+				"placeholder":"APL_except_board_ids_placeholder",
+				"default": 0,
+				"label": "APL_except_board_ids_label",
+				"description": "APL_except_board_ids_desc"
+			}
+		}
+	}
+}	
