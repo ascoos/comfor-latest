@@ -6,28 +6,29 @@
  *  \__,_|/__/ \___\___/ \___/ /__/    \___\|_| |_| |_|/__/
  * 
  * 
- ***********************************************************************************
- * @ASCOOS-NAME        : ASCOOS CMS 24'                                            *
- * @ASCOOS-VERSION     : 24.0.0                                                    *
- * @ASCOOS-CATEGORY    : Block (Frontend and Administrator Side)                   *
- * @ASCOOS-CREATOR     : Drogidis Christos                                         *
- * @ASCOOS-SITE        : www.ascoos.com                                            *
- * @ASCOOS-LICENSE     : [Commercial] http://docs.ascoos.com/lics/ascoos/AGL.html  *
- * @ASCOOS-COPYRIGHT   : Copyright (c) 2007 - 2024, AlexSoft Software.             *
- ***********************************************************************************
+ ************************************************************************************
+ * @ASCOOS-NAME        	: ASCOOS CMS 24'                                            *
+ * @ASCOOS-VERSION     	: 24.0.0                                                    *
+ * @ASCOOS-CATEGORY    	: Block (Frontend and Administrator Side)                   *
+ * @ASCOOS-CREATOR     	: Drogidis Christos                                         *
+ * @ASCOOS-SITE        	: www.ascoos.com                                            *
+ * @ASCOOS-LICENSE     	: [Commercial] http://docs.ascoos.com/lics/ascoos/AGL.html  *
+ * @ASCOOS-COPYRIGHT   	: Copyright (c) 2007 - 2024, AlexSoft Software.             *
+ ************************************************************************************
  *
- * @package            : Comfor Latest Discussion 
- * @subpackage         : installation file
- * @source             : /[BLOCKS PATH]/comfor_latest/install.php
- * @fileNo             : 1
- * @version            : 1.0.1.12
- * @created            : 2012-07-01 20:00:00 UTC+3 
- * @updated            : 2024-03-12 07:00:00 UTC+3
- * @author             : Drogidis Christos
- * @authorSite         : www.alexsoft.gr
+ * @package            	: Comfor Latest Discussion 
+ * @subpackage         	: installation file
+ * @source             	: /[BLOCKS PATH]/comfor-latest/install.php
+ * @fileNo             	: 
+ * @version            	: 1.0.1
+ * @created            	: 2012-07-01 20:00:00 UTC+3 
+ * @updated            	: 2024-03-12 07:00:00 UTC+3
+ * @author             	: Drogidis Christos
+ * @authorSite         	: www.alexsoft.gr
+ * @license 			: AGL-F
  * 
- * @since 8.2.0
-*/
+ * @since PHP 8.2.0
+ */
 
 
 defined ("ALEXSOFT_RUN_CMS") or die("Prohibition of Access.");
