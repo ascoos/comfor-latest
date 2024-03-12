@@ -2,11 +2,11 @@
 
 ***
 
-# How to use Block `comfor_latest` of Ascoos Cms.
+# How to use Block `comfor-latest` of Ascoos Cms.
 
 This tutorial is divided into four steps.
 1) What is `Comfor` program.
-2) Installing the `comfor_latest` Block
+2) Installing the `comfor-latest` Block
 3) Editing and configuration of its parameters.
 4) The result we have.
 
@@ -79,7 +79,7 @@ In the program that will open (see image below) we choose:
 
 1) From the menu ribbon the `Blocks` tab to go to the Blocks management page.
 
-2) we go to the `Views` section and from the drop-down named `Block` we select `comfor_latest`. This will show us in the list of blocks only the block with the title `Comfor Latest Messages`.
+2) we go to the `Views` section and from the drop-down named `Block` we select `comfor-latest`. This will show us in the list of blocks only the block with the title `Comfor Latest Messages`.
 3) In the displayed list, click on `Comfor Latest Messages` to open our block for editing.
 
 <p align="center"><img src="scr-block-comfor_latest-admin-0000-1280.webp" /></p>
