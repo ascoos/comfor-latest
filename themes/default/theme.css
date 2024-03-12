@@ -1,0 +1,63 @@
+.block-comfor-latest-default {
+    position: relative;
+    display : block;
+    margin  : 0;
+    padding : 0;
+}
+
+.comfor-latest {
+    position      : relative;
+    width         : 100%;
+    border        : none;
+    border-spacing: 1px;
+    display       : table
+}
+
+tr.comfor-latest-header {
+    background-color: #317BA8;
+    color           : #FFFFFF;
+    font-weight     : bold;
+    height          : 25px;
+    line-height     : 25px;
+    vertical-align  : middle;
+}
+
+td.comfor-latest-header,
+td.comfor-latest-poster,
+td.comfor-latest-date {
+    text-align: center;
+    padding   : 3px;
+}
+
+td.comfor-latest-icon-new,
+td.comfor-latest-icon-update {
+    width              : 48px;
+    height             : 48px;
+    background-position: center;
+}
+
+td.comfor-latest-icon-new {
+    background: transparent url(comfor_latest_icons.png) 0 0 no-repeat;
+}
+
+td.comfor-latest-icon-update {
+    background: transparent url(comfor_latest_icons.png) -48px 0 no-repeat;
+}
+
+td.comfor-latest-subject,
+td.comfor-latest-board {
+    padding   : 3px;
+    text-align: left;
+}
+
+tr.comfor-latest-row0 {
+    background-color: #E8E8E8
+}
+
+tr.comfor-latest-row1 {
+    background-color: #BDE2E8
+}
+
+td.border {
+    border: #FFF solid 1px;
+}
