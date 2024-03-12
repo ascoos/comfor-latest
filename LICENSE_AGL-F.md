@@ -1,8 +1,8 @@
-<p align="center"><img src="https://dl.ascoos.com/images/ascoos.png" height=120 /></p>
+<p align="center"><img src="https://dl.ascoos.com/images/ascoos.webp" height=120 /></p>
 
 ***
 
-# ASCOOS CMS License (Free Use) - AGL-F
+# ASCOOS General License (Free Use) - AGL-F
 
 ## You are free to:
 
